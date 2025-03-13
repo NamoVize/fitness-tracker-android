@@ -46,9 +46,6 @@ A comprehensive fitness tracking application that helps users monitor their work
 - MPAndroidChart - For data visualization
 - CameraX - For barcode scanning functionality
 
-## Screenshots
-
-*Coming soon*
 
 ## Installation
 
